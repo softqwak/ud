@@ -34,7 +34,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mZJblwisgCbaNysG1-fJ-1" value="Участник" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="250" width="250" height="150" as="geometry" />
+          <mxGeometry x="450" y="250" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="mZJblwisgCbaNysG1-fJ-2" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="mZJblwisgCbaNysG1-fJ-1" vertex="1">
           <mxGeometry y="30" width="250" height="50" as="geometry" />
@@ -50,16 +50,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mZJblwisgCbaNysG1-fJ-5" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="mZJblwisgCbaNysG1-fJ-1" vertex="1">
-          <mxGeometry y="80" width="250" height="70" as="geometry" />
+          <mxGeometry y="80" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mZJblwisgCbaNysG1-fJ-6" value="FK1&#xa;FK2&#xa;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="mZJblwisgCbaNysG1-fJ-5" vertex="1">
-          <mxGeometry width="30" height="70" as="geometry">
-            <mxRectangle width="30" height="70" as="alternateBounds" />
+          <mxGeometry width="30" height="50" as="geometry">
+            <mxRectangle width="30" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mZJblwisgCbaNysG1-fJ-7" value="Email Пользователя&#xa;Название Мероприятия&#xa;Роль" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="mZJblwisgCbaNysG1-fJ-5" vertex="1">
-          <mxGeometry x="30" width="220" height="70" as="geometry">
-            <mxRectangle width="220" height="70" as="alternateBounds" />
+          <mxGeometry x="30" width="220" height="50" as="geometry">
+            <mxRectangle width="220" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mZJblwisgCbaNysG1-fJ-8" value="Мероприятие" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
@@ -86,7 +86,7 @@
             <mxRectangle width="30" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mZJblwisgCbaNysG1-fJ-14" value="Описание&#xa;Локация&#xa;Дата&#xa;Количество доступных билетов&#xa;Количество билетов" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="mZJblwisgCbaNysG1-fJ-12" vertex="1">
+        <mxCell id="mZJblwisgCbaNysG1-fJ-14" value="Описание&#xa;Локация&#xa;Дата&#xa;URL изображения афиши&#xa;Количество билетов" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="mZJblwisgCbaNysG1-fJ-12" vertex="1">
           <mxGeometry x="30" width="220" height="80" as="geometry">
             <mxRectangle width="220" height="80" as="alternateBounds" />
           </mxGeometry>
